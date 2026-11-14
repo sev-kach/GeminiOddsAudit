@@ -1,0 +1,8 @@
+{
+  "name": "OddsAudit",
+  "description": "Credit ratings for prediction markets. Traces Polymarket trading to the wallets behind it and rates market integrity from AAA to CCC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
