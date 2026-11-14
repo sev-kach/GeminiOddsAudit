@@ -3,7 +3,7 @@
 Paste any Polymarket market and get a rating from AAA to CCC in about two seconds: was the price
 made by real traders, or staged by a few wallets?
 
-**Live app (Google AI Studio):** https://aistudio.google.com/apps/7a97d12f-6221-4bff-8c3a-a53df7049f7c
+**Live app (Google AI Studio):** https://ai.studio/apps/7a97d12f-6221-4bff-8c3a-a53df7049f7c
 
 ## The problem
 
